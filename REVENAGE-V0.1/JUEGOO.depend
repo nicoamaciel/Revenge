@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1637019683 source:c:\users\lenovo\documents\laboratorio\2doparcial\juegoo\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"funciones.h"
+
+1636664822 c:\users\lenovo\documents\laboratorio\2doparcial\juegoo\funciones.h
+
+1637091509 source:c:\users\lenovo\documents\laboratorio\2doparcial\juegoo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"funciones.h"
+
+1636146661 c:\users\lenovo\documents\laboratorio\2doparcial\juegoo\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"funciones.h"
+
+1637146734 source:c:\users\user\desktop\juegoo\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1636664824 c:\users\user\desktop\juegoo\funciones.h
+
+1637146210 source:c:\users\user\desktop\juegoo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\user\desktop\juegoo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637146734 source:c:\users\carlos\desktop\revenge v0.1\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1571584339 c:\users\carlos\desktop\revenge v0.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636664824 c:\users\carlos\desktop\revenge v0.1\funciones.h
+
+1637146210 source:c:\users\carlos\desktop\revenge v0.1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1637273888 source:c:\users\lenovo\documents\laboratorio\2doparcial\ultimo proyect\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1571584339 c:\users\lenovo\documents\laboratorio\2doparcial\ultimo proyect\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636664824 c:\users\lenovo\documents\laboratorio\2doparcial\ultimo proyect\funciones.h
+
+1637273731 source:c:\users\lenovo\documents\laboratorio\2doparcial\ultimo proyect\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1637273890 source:c:\users\carlos\desktop\revenage2\revenag»\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1571584340 c:\users\carlos\desktop\revenage2\revenag»\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636664824 c:\users\carlos\desktop\revenage2\revenag»\funciones.h
+
+1637274564 source:c:\users\carlos\desktop\revenage2\revenag»\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1637290736 source:c:\users\lenovo\documents\laboratorio\2doparcial\ultimo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1571584340 c:\users\lenovo\documents\laboratorio\2doparcial\ultimo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637275646 c:\users\lenovo\documents\laboratorio\2doparcial\ultimo\funciones.h
+
+1637276408 source:c:\users\lenovo\documents\laboratorio\2doparcial\ultimo\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1637276408 source:c:\users\lenovo\documents\laboratorio\2doparcial\revenagee\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1571584340 c:\users\lenovo\documents\laboratorio\2doparcial\revenagee\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637275646 c:\users\lenovo\documents\laboratorio\2doparcial\revenagee\funciones.h
+
+1637319946 source:c:\users\user\desktop\revenagee\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1571584340 c:\users\user\desktop\revenagee\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637275648 c:\users\user\desktop\revenagee\funciones.h
+
+1637292188 source:c:\users\user\desktop\revenagee\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
