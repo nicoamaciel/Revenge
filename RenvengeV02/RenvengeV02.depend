@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1636631302 source:c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\renvengev02\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"funciones.h"
+
+1636627624 c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\renvengev02\funciones.h
+
+1636630909 source:c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\renvengev02\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"funciones.h"
+
+1645499283 source:c:\users\user\desktop\utn\tsp tercer cuatrimestre\lab 1\segundo parcial\renvengev02\funciones.cpp
+	<iostream>
+	<ctime>
+	"string.h"
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1645499284 c:\users\user\desktop\utn\tsp tercer cuatrimestre\lab 1\segundo parcial\renvengev02\funciones.h
+
+1645571683 source:c:\users\user\desktop\utn\tsp tercer cuatrimestre\lab 1\segundo parcial\renvengev02\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"string.h"
+	"rlutil.h"
+	"funciones.h"
+
+1571584340 c:\users\user\desktop\utn\tsp tercer cuatrimestre\lab 1\segundo parcial\renvengev02\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
